@@ -1,0 +1,7 @@
+# Model files
+*.pt
+*.bin
+*.safetensors
+
+# Virtual environment
+venv/

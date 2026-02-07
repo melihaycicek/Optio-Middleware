@@ -1,0 +1,4 @@
+unsloth
+fastapi
+uvicorn
+torch
